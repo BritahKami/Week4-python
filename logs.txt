@@ -1,0 +1,1 @@
+[Errno 22] Invalid argument: 'C:/Python312/python.exe "c:/Users/mukam/OneDrive/Desktop/Week4 python/editor.py"'
